@@ -1,0 +1,33 @@
+
+{
+    "albums":[
+   
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Flag Ceremony",
+     "date": "May 1,2024"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Head Meeting",
+     "date": "May 2,2024"
+  },
+   {
+    "userId": 1,
+    "id": 3,
+    "title": "Flag Raisng Ceremony 103",
+     "date": "May 3,2024"
+  },
+ 
+   {
+    "userId": 1,
+    "id": 2,
+    "title": "Flag Raisng Ceremony 102",
+     "date": "May 2,2024"
+  }
+ 
+]
+
+}
